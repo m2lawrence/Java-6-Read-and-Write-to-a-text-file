@@ -1,0 +1,4 @@
+Mike's reading and writing to a text file in Java 2.
+Mike's Course: 30 credits
+Mike's Year: 120 credits
+Mike's Degree: 360 credits
